@@ -1,4 +1,4 @@
-haha
+notes from the bleeding edge
 ====
 
 ### About Causeway integration 
